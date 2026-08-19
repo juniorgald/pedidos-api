@@ -1,4 +1,4 @@
-package com.junior.pedidos_api;
+package com.junior.pedidosapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
